@@ -1,0 +1,92 @@
+{
+	"data": [{
+			"quote": "If you want a thing done well, do it yourself.",
+			"author": "Napoléon Bonaparte"
+		},
+		{
+			"quote": "Impossible is a word to be found only in the dictionary of fools.",
+			"author": "Napoléon Bonaparte"
+		},
+		{
+			"quote": "Take time to deliberate, but when the time for action comes, stop thinking and go in.",
+			"author": "Napoléon Bonaparte"
+		},
+		{
+			"quote": "Victory belongs to the most persevering.",
+			"author": "Napoléon Bonaparte"
+		},
+		{
+			"quote": "Great men are meteors designed to burn so that earth may be lighted.",
+			"author": "Napoléon Bonaparte"
+		},
+		{
+			"quote": "It's the unconquerable soul of man, and not the nature of the weapon he uses, that ensures victory",
+			"author": "Napoléon Bonaparte"
+		},
+		{
+			"quote": "Nothing is lost as long as courage remains.",
+			"author": "Napoléon Bonaparte"
+		},
+		{
+			"quote": "a true man hates no one",
+			"author": "Napoléon Bonaparte"
+		},
+		{
+			"quote": "To do all that one is able to do, is to be a man; to do all that one would like to do, is to be a god.",
+			"author": "Napoléon Bonaparte"
+		},
+		{
+			"quote": "The only thing I am afraid of is fear.",
+			"author": "Athur Wellesley"
+		},
+		{
+			"quote": "Believe me, nothing except a battle lost can be half so melancholy as a battle won.",
+			"author": "Athur Wellesley"
+		},
+		{
+			"quote": "When my journal appears, many statues must come down.",
+			"author": "Athur Wellesley"
+		},
+		{
+			"quote": "At the moment of victory, tighten the straps of your helmet.",
+			"author": "Tokugawa Ieyasu"
+		},
+		{
+			"quote": "The strong manly ones in life are those who understand the meaning of the word patience.",
+			"author": "Tokugawa Ieyasu"
+		},
+		{
+			"quote": "It is better to offer no excuse than a bad one.",
+			"author": "George Washington"
+		},
+		{
+			"quote": "99% of failures come from people who make excuses",
+			"author": "George Washington"
+		},
+		{
+			"quote": "Perseverance and spirit have done wonders in all ages.",
+			"author": "George Washington"
+		},
+		{
+			"quote": "the harder the conflict, the greater the triumph.",
+			"author": "George Washington"
+		},
+		{
+			"quote": "Real men despise battle but will never run from it.",
+			"author": "George Washington"
+		},
+		{
+			"quote": "There is nothing so likely to produce peace as to be well prepared to meet the enemy ",
+			"author": "George Washington"
+		},
+
+		{
+			"quote": "We should not look back unless it is to derive useful lessons from past errors, and for the purpose of profiting by dearly bought experience. ",
+			"author": "George Washington"
+		},
+		{
+			"quote": "my best advice before going to war was to get a good nice sleep",
+			"author": "Mikhail Kutuzov"
+		}
+	]
+}
